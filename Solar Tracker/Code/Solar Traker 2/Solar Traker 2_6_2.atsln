@@ -1,0 +1,20 @@
+
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Solar Traker 2", "Solar Traker 2\Solar Traker 2_6_2.cproj", "{F2199220-267B-489F-960A-9BD894FAD032}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2199220-267B-489F-960A-9BD894FAD032}.Debug|AVR.ActiveCfg = Debug|AVR
+		{F2199220-267B-489F-960A-9BD894FAD032}.Debug|AVR.Build.0 = Debug|AVR
+		{F2199220-267B-489F-960A-9BD894FAD032}.Release|AVR.ActiveCfg = Release|AVR
+		{F2199220-267B-489F-960A-9BD894FAD032}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
